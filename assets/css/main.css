@@ -87,6 +87,11 @@ input, select, textarea {
 		animation: move 300s linear infinite;
 	}
 
+	.EducationYear{
+		white-space: nowrap;
+	}
+
+
 	@keyframes move{
 		to{
 			background-position: 4500vh;
